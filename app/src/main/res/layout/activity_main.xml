@@ -16,7 +16,7 @@
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         app:popupTheme="@style/Theme.AppCompat.Light"
 
-        tools:ignore="MissingConstraints" />
+         />
 
     <Button
         android:id="@+id/bIr"
